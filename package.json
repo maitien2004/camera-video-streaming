@@ -1,0 +1,20 @@
+{
+  "name": "rtsp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tien Mai",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jsmpeg": "^1.0.0",
+    "ws": "^7.0.0"
+  }
+}
